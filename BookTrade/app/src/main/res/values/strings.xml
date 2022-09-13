@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookTrade</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_offer_detail">BookTrade</string>
+    <string name="title_activity_chat_view">BookTrade</string>
+    <string name="contact_name_1">João da Silva</string>
+    <string name="june_10">10 de Junho</string>
+    <string name="message_1">Olá! Fiquei interessado no livro!</string>
+    <string name="message_2">Opa, também me interessei no que tu ofereceu, podemos marcar um local e horário para fazermos a troca!</string>
+    <string name="message_3">Claro! Podemos marcar em algum shopping sábado.</string>
+    <string name="message_4">Pode sugerir algum outro lugar/horário se preferir tb!</string>
+    <string name="title_activity_chat">chat</string>
+</resources>
